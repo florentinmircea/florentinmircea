@@ -15,6 +15,7 @@ I am Pietrar Florentin, currently pursuing my bachelor's degree majoring in auto
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=florentinmircea&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinmircea&hide=TeX&layout=compact)
