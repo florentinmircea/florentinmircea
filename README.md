@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=florentinmircea&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinmircea&hide=TeX&layout=compact)
 <!--
 **florentinmircea/florentinmircea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
