@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Pietrar Florentin, currently pursuing my bachelor's degree majoring in automation and computer science from [Technical University of Cluj-Napoca](https://www.utcluj.ro/). I am a tech enthusiast.
+I am Pietrar Florentin, currently pursuing my master's degree majoring in Cybersecurity from [Technical University of Cluj-Napoca](https://www.utcluj.ro/). I am a tech enthusiast.
 
 ## ⚡ Technologies
 
